@@ -1,4 +1,4 @@
-#!/usr/bin/env Rscript
+
 # =============================================================================
 # Discordance between 10-year and 30-year cardiovascular risk estimates
 #   among US adults with chronic kidney disease (NHANES 1999-2018)
